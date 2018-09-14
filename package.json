@@ -1,0 +1,13 @@
+{
+  "name": "splashbase-api-interface",
+  "version": "1.0.0",
+  "description": "Search over thousands free images",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Quentin Dutot <dutot.quentin@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "node-fetch": "^2.2.0"
+  }
+}
