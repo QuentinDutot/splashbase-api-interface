@@ -1,6 +1,6 @@
 {
   "name": "splashbase-api-interface",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Search over thousands free images",
   "main": "index.js",
   "scripts": {},

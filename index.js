@@ -2,7 +2,7 @@
 // API doc : http://www.splashbase.co/api#sources_show
 const fetch = require('node-fetch');
 const async = require('async');
-const api = 'http://www.splashbase.co/api/v1/images';
+const api = 'https://www.splashbase.co/api/v1/images';
 const apiLimit = 20;
 
 module.exports = {
