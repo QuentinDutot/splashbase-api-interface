@@ -2,6 +2,10 @@
 
 # splashbase-api-interface
 
+[ DEPRECATED ] Don't use it anymore..
+
+The splashbase.co api's policies changed. This package is now obsolete.
+
 ## Introduction
 
 Module based on [splashbase.co](http://www.splashbase.co/)'s API. It uses [async](https://github.com/caolan/async) and [node-fetch](https://github.com/bitinn/node-fetch).

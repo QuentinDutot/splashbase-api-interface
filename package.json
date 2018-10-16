@@ -1,7 +1,7 @@
 {
   "name": "splashbase-api-interface",
-  "version": "1.0.1",
-  "description": "Search over thousands free images",
+  "version": "1.0.2",
+  "description": "[ DEPRECATED ] Search over thousands free images",
   "repository": "github:QuentinDutot/splashbase-alternative-front",
   "main": "index.js",
   "scripts": {},
